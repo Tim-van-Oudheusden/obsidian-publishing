@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Sample project.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sample project"
+              "title": "Home"
             }
           }
         ]
@@ -155,13 +155,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "7b5093ff6fd31fac",
   "lastOpenFiles": [
     "Projects/Sample project.md",
     "Projects",
-    "Welcome.md"
+    "Home.md"
   ]
 }
