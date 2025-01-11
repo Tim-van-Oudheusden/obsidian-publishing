@@ -19,7 +19,7 @@ SITE_TITLE = "Tim VO"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = "https://transcendent-marshmallow-441f0a.netlify.app/"
+SITE_URL = "https://timvanoudheusden.com/"
 # (Optional) Site Timezone
 TIMEZONE = "Europe/Amsterdam"
 ZOLA_VERSION = "0.15.2"

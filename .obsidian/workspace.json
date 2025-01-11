@@ -11,10 +11,14 @@
             "id": "7b5093ff6fd31fac",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Sample project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample project"
             }
           }
         ]
@@ -156,6 +160,8 @@
   },
   "active": "7b5093ff6fd31fac",
   "lastOpenFiles": [
+    "Projects/Sample project.md",
+    "Projects",
     "Welcome.md"
   ]
 }
