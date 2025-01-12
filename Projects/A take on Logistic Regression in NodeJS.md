@@ -1,7 +1,7 @@
 # Backstory
 A few years ago I worked at a Fin-tech banking company. Their primary appeal was the data insights and analytics they collected from loaners using the [PSD2](https://en.wikipedia.org/wiki/Payment_Services_Directive) protocol. One of my tasks was to expand the analytics with new formulas and methods. Due to liability reasons I can't go too much into detail of the specifics of it all, but in short: I ended up using Logistic Regression as part of calculating the expected default % of loans (see [Investopedia: What is LGD?](https://www.investopedia.com/terms/l/lossgivendefault.asp) for more information.)
 
-Of course, one could simply install Python and set-up an LR model that way. However, at that point in time Python wasn't part of our software stack (yet) and we we're running a Monolithic architecture which meant integrating Python would come with needless additional overhead for a small team of four.
+Of course, one could simply install Python and set up an LR model that way. However, at that point in time Python wasn't part of our software stack (yet) and we we're running a Monolithic architecture, which meant integrating Python would come with needless additional overhead for a small team of four.
 
 There were some existing dependencies that provided Logistic Regression, yet came with many more mathematical features that we're simply not necessary for our use case. Remembering the lesson from "A Philosophy of Software Design", I decided to stick with the built-in math library of NodeJS and built the implementation myself.
 
