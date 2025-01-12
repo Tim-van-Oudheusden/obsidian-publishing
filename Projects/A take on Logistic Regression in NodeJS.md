@@ -186,7 +186,7 @@ const trainCustomerAcceptanceLogisticRegressionModel = async(customerId) => {
       await db.query(
         /*SQL*/
         `
-        INSERT INTO logisic_regression (customerId, coefficientConstant, coefficientDeviationAverageScore, coefficientCustomerLoan)
+        INSERT INTO logistic_regression (customerId, coefficientConstant, coefficientDeviationAverageScore, coefficientCustomerLoan)
         VALUES ('${customerId}''${coefficientConstant}', '${coefficientDeviationAverageScore}', '${coefficientCustomerLoan}');
         `
       );
