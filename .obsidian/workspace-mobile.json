@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d1bc46fc68fce91d",
+        "id": "21ec844a4bb442f1",
         "type": "tabs",
         "children": [
           {
-            "id": "7c62e9072cb57947",
+            "id": "4db430fc3e1c1ac7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articles/Yoga Nidra, a way to be at peace in chaos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Yoga Nidra, a way to be at peace in chaos"
+              "title": "New tab"
             }
           }
         ]
@@ -143,6 +139,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c62e9072cb57947",
-  "lastOpenFiles": []
+  "active": "4db430fc3e1c1ac7",
+  "lastOpenFiles": [
+    "Projects/A take on Logistic Regression in NodeJS.md",
+    "Articles/Yoga Nidra, a way to be at peace in chaos.md"
+  ]
 }
