@@ -21,14 +21,15 @@ And as obsidian is also available as a mobile app, notes can be easily reference
 
 ## Creating overviews
 The last core functionality of Obsidian that I want to mention is the [canvas](https://obsidian.md/canvas). As the name suggests it is a canvas in which the user can place existing notes, text and/or images. I love to use this feature whenever I want to make a visual explanation of a certain proces or concept.
+
 It is as simple as selecting my existing notes, linking some of them together, maybe adding some text and then exporting it as an image. A great way to share knowledge with your colleagues without having to introduce them to your entire collection of notes.
 
 ## Expanding into niches
 ### Web Clipping
-Another great addition for those who have to use the internet to gather information for their job is the Obsidian [Web Clipper](https://obsidian.md/clipper) a nifty little extension that allows the user to export the contents from a website into Obsidian with a simple click. This removes the need for those long lists of bookmarks, and removes the risk that a page or website might no longer be accessible in the future.
+Another great addition for those who have to use the internet to gather information for their job is the Obsidian [Web Clipper](https://obsidian.md/clipper), a nifty little extension that allows the user to export the contents from a website into Obsidian with a simple click. This removes the need for those long lists of bookmarks, and removes the risk that a page or website might no longer be accessible in the future.
 
 ### Data mapping and indexing
-Dataview, by far the most popular **community extension** available in the Obsidian marketplace, is a tool that allows the user to query their notes using a language very similar to SQL (and easy to learn!). This can be very useful for making table of contents, index notes, overviews, tracking changes or really anything.
+Dataview, by far the most popular **community extension** available in the Obsidian marketplace, is a tool that allows the user to query their notes using a language very similar to SQL (and easy to learn!). This can be very useful for making a table of contents, index notes, overviews, tracking changes or any other notes data you wish to query.
 
 ### Embedding
 There are numerous community extensions available that allow the user to embed content into obsidian. A few examples are: excalidraw, handwritten notes, mathematical formulas or YouTube videos. Almost anything can be embedded which can be very useful if you wish to make obsidian the central place for everything.
