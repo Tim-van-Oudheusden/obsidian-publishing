@@ -15,7 +15,7 @@ A surreal experience that can only be described as "true peace". For the first t
 Now personally, this alone was more than enough for me to incorporate this into my daily life. However, this is just the tip of the iceberg of benefits that Yoga Nidra brings with it. 
 
 # The benefits of Yoga Nidra
-One of the first benefits you will notice is the absence of worries as the start of the day, and a general improvement in the quality of sleep you experience. Yoga Nidra should always be practiced either before sleeping or after waking up, but regardless of choice these benefits will be present.
+One of the first benefits you will notice is the absence of worries at the start of the day, and a general improvement in the quality of sleep you experience. Yoga Nidra should always be practiced either before sleeping or after waking up, but regardless of choice these benefits will be present.
 
 After a few weeks of practicing, the ability to concentrate and focus on a task improved dramatically for me. I wrote a 15.000 word report about Quantum Computing as one of my final assignments for the school semester and managed to score a perfect 10/10 (A+ for Americans). The best part is that I completed the task in a day or two. In contrast, just a month before I could barely motivate or focus on a single assignment. It was a night and day difference. I ended up recovering my grades that semester and finished university with "Cum Laude" ([Latin honors](https://en.wikipedia.org/wiki/Latin_honors)) about a year and a half after that. Something which would have never been possible had I not started practicing Yoga Nidra.
 
